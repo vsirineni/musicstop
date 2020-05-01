@@ -1,1 +1,1 @@
-web:gunicorn user_reg_proj_root.wsgi --log-file -
+web: gunicorn user_reg_proj.wsgi
