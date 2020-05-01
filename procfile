@@ -1,1 +1,0 @@
-web: gunicorn user_reg_proj.wsgi --log-file -
